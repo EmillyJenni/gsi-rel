@@ -48,5 +48,5 @@ Esse DN completo descreve a posição exata do usuário 20221148060021 dentro da
 
 Você pode acessar a explicação completa do _Distinguished Name (DN)_ em formato PDF através do link abaixo:
 
-> _[Clique aqui para baixar o PDF](./CamScanner%2007-09-2024%2017.29.png)_!
+> _[Clique aqui para baixar o PDF](./CamScanner%2009-20-2024%2017.29.jpg)_!
 > (Explicação detalhada do DN em manuscrito)
