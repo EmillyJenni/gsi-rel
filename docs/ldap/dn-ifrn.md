@@ -1,5 +1,9 @@
 # Explicação de seu DN do LDAP no IFRN
 
+!!! note "Observações"
+
+    O formato solicitado para digitalização da tarefa manuscrita era o formato PDF.
+ 
 ## O DN do usuário é:
 
 `CN=20221148060021,OU=Alunos,OU=DG-PAR,OU=RE,OU=IFRN,DC=ifrn,DC=local`
