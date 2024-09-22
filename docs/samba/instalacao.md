@@ -1,5 +1,13 @@
 # Instalação do SAMBA
 
+!!! note "Observações"
+
+    - Documentação incompleta;
+    - Faltou configurar o nome da máquina no formato FQDN;
+    - Faltou o conteúdo do arquivo `/etc/samba/smb.conf`;
+    - Faltou o comando que configura o servidor: `samba-tool domain provision`
+    - Ausência de imagens que comprovassem a execução da tarefa.
+
 ## 1. Atualização do sistema
 
 ```bash
